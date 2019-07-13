@@ -1,14 +1,12 @@
 # hero_animation_flutter
 How to have an hero animation in flutter with a normal animation code is given in a simple methodology hope you enjoy fluttering !!!!
-<div class="row">
-  <div style="width: 60%;float: left;">  <h3>First Page/Main Page</h3> 
-<img src="https://github.com/neon97/hero_animation_flutter/blob/master/Screenshot_1563015905.png?raw=true"  width="200" >
-    </div>
- <div style="width: 60%;float: left;">
   <h3>First Page/Main Page</h3> 
 <img src="https://github.com/neon97/hero_animation_flutter/blob/master/Screenshot_1563015905.png?raw=true"  width="200" >
-  </div>
-  </div>
+
+
+  <h3>First Page/Main Page</h3> 
+<img src="https://github.com/neon97/hero_animation_flutter/blob/master/Screenshot_1563015905.png?raw=true"  width="200" >
+
 
 
 
