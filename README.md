@@ -9,7 +9,7 @@ Just have Uploaded the required main.dart file no need of any editing in pubspec
 <img src="https://github.com/neon97/hero_animation_flutter/blob/master/Screenshot_1563015912.png?raw=true"  width="200" >
 </img>
 
-  <h3>Second Page/Hero Animation</h3> 
+  <h3>Hero Animation</h3> 
 <img src="https://github.com/neon97/hero_animation_flutter/blob/master/Screenshot_1563015905.png?raw=true"  width="200" >
  
 </img>
